@@ -1,0 +1,6 @@
+*.zip
+micromouse-log-*
+backup-*/
+.claude/
+.pio/
+build/
