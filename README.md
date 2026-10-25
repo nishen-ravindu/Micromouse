@@ -290,6 +290,7 @@ The whole point of Creamcraker: **calibration should be easy.** With `TUNER_WIFI
 <img width="640" height="794" alt="WhatsApp Image 2026-10-25 at 22 51 08" src="https://github.com/user-attachments/assets/f1db85ce-cbd8-4ac7-a446-fba6f73325c7" />
 <img width="396" height="784" alt="image" src="https://github.com/user-attachments/assets/eff34d28-9b79-44ef-9942-86a87f36be04" />
 <img width="384" height="746" alt="WhatsApp Image 2026-10-25 at 22 51 10" src="https://github.com/user-attachments/assets/4c7a86c4-92b3-4505-9b6d-26b2eb5b394b" />
+<img width="640" height="794" alt="WhatsApp Image 2026-10-25 at 22 51 08" src="https://github.com/user-attachments/assets/c8ff64eb-4dec-460b-b49b-c7fa43070f60" />
 
 
 **Wireless logging:** set `TUNER_HOTSPOT_SSID` and `TUNER_HOTSPOT_PASS` to a 2.4 GHz phone hotspot and join it with a laptop too. Then:
