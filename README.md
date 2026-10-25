@@ -1,6 +1,6 @@
 # 🍪 Creamcraker
 
-**An ESP32 micromouse with easy calibration. Finalist, SLIIT ROBOFEST 2026.**
+**An ESP32 micromouse with easy calibration. Finalist of SLIIT ROBOFEST 2026.**
 
 <p align="center">
   <img src="https://img.shields.io/badge/ROBOFEST%202026-Finalist-gold" alt="ROBOFEST 2026 Finalist">
