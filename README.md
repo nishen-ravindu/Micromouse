@@ -343,12 +343,12 @@ Our plan for the final: search until about five minutes were left, then fast run
 
 **ROBOFEST 2026, University Category: Finalist.** Preliminary round 27 September, final round 28 September, SLIIT Malabe. ROBOFEST shared one of our runs on their Instagram.
 
-| Run | What it does | Best time |
-| --- | --- | ---: |
-| 🧭 Search | Start → goal → start, mapping walls | `<TODO>` |
-| ⚡ Fast | The proven route, one cell at a time | `<TODO>` |
-| 🚀 Fast, continuous | The proven route, each straight in one go | `<TODO>` |
-| 🏆 Final placing | | `<TODO>` |
+| Run | What it does |
+| --- | --- | 
+| 🧭 Search | Start → goal → start, mapping walls |
+| ⚡ Fast | The proven route, one cell at a time |
+| 🚀 Fast, continuous | The proven route, each straight in one go |
+
 
 <!-- 🎬 Video thumbnail linking to the run:
 <p align="center"><a href="https://youtu.be/XXXXXXXX"><img src="media/final-run-thumb.jpg" width="500" alt="Final run"></a></p>
