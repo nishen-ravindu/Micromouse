@@ -24,7 +24,7 @@ This README is a maze. Like the mouse, you can explore it cell by cell, or skip 
 
 <a name="map"></a>
 
-## 🗺️ The map
+## 🗺️ The map- for the readme. The maze represents several sections of it listed below.
 
 ```
 +-----+-----+-----+-----+-----+-----+
