@@ -367,11 +367,12 @@ Our plan for the final: search until about five minutes were left, then fast run
 
 <sub>Placed alphabetically. Nobody was actually the front sensor.</sub>
 
-**Team**: Dinel (https://github.com/dineldamsika) , Nishen (https://github.com/nishen-ravindu) , Ravindu (, Suharie and Waruna. The chassis, electronics, firmware, practice maze and race-day tuning were all done together.
+**Team**: Dinel (https://github.com/dineldamsika) , Nishen (https://github.com/nishen-ravindu) , Ravindu (https://github.com/Ravinduwannigama), Suharie (https://github.com/SuhariePerera112) and Waruna (https://github.com/waruna-collab). The chassis, electronics, firmware, practice maze and race-day tuning were all done together.
 
-<!-- 📸 Team photo: media/team.jpg -->
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/7f9e415a-ae0b-4047-81bf-2a1f18b37da3" />
 
-**Thanks to** the Faculty of Engineering, SLIIT, for ROBOFEST 2026; the senior team who told us how they built their practice maze; [mackorone/mms](https://github.com/mackorone/mms); and the [Pololu VL53L0X](https://github.com/pololu/vl53l0x-arduino) and [Adafruit MPU6050](https://github.com/adafruit/Adafruit_MPU6050) libraries.
+
+**Thanks to** the Faculty of Engineering, SLIIT, for ROBOFEST 2026; the senior teams who told us how they built their practice maze; [mackorone/mms](https://github.com/mackorone/mms); and the [Pololu VL53L0X](https://github.com/pololu/vl53l0x-arduino) and [Adafruit MPU6050](https://github.com/adafruit/Adafruit_MPU6050) libraries.
 
 ↩ The mouse now searches its way home through the cells it missed: [what's next](#unexplored).
 
