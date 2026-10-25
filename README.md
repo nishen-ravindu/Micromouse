@@ -395,7 +395,6 @@ Our plan for the final: search until about five minutes were left, then fast run
 
 **Algorithm**
 
-* **`=` instead of `==`** in a wall-state check silently overwrote maze data on every read.
 * **An enum used before its definition**, which C requires to come first.
 * **Off-by-one loop bounds** (`x < width - 1`) skipped the last row and column, leaving uninitialised memory that was read as wall data.
 * **The BFS queue was never reset** between flood fills, so it wrote past its end on the second call. The mouse froze at the same cell every run: it looked deterministic, but it was memory corruption.
