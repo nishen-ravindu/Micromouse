@@ -367,7 +367,7 @@ Our plan for the final: search until about five minutes were left, then fast run
 
 <sub>Placed alphabetically. Nobody was actually the front sensor.</sub>
 
-**Team**: Dinel, [Nishen](https://github.com/nishen-ravindu), Ravindu, Suharie and Waruna. The chassis, electronics, firmware, practice maze and race-day tuning were all done together.
+**Team**: Dinel (https://github.com/dineldamsika) , Nishen (https://github.com/nishen-ravindu) , Ravindu (, Suharie and Waruna. The chassis, electronics, firmware, practice maze and race-day tuning were all done together.
 
 <!-- 📸 Team photo: media/team.jpg -->
 
