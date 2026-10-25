@@ -157,7 +157,6 @@ Here is how it went, as the mouse would log it:
 | Inner ear | MPU6050 gyro |
 | Legs | 2 × 300 RPM encoder gear motors, 34 mm wheels, 1 caster |
 | Muscles | TB6612FNG motor driver |
-| Weight | `<TODO>` g |
 | **Contains** | flood fill, wall voting, 40 tunable values |
 | **May contain** | bugs ([see dead ends](#dead-ends)) |
 | **Best before** | recalibrate before every session |
