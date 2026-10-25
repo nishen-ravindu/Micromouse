@@ -286,11 +286,10 @@ The whole point of Creamcraker: **calibration should be easy.** With `TUNER_WIFI
 | Walls | Wall thresholds, centring gains, safety distances |
 | Maze | Maze size, goal, start side; live map and cell-by-cell log |
 | Export | Copy the `TUNED VALUES` block back into the code |
-<img width="655" height="822" alt="WhatsApp Image 2026-10-25 at 22 51 07" src="https://github.com/user-attachments/assets/2dcc52ee-b464-4e02-a33c-c6b94d05586c" />
-<img width="640" height="794" alt="WhatsApp Image 2026-10-25 at 22 51 08" src="https://github.com/user-attachments/assets/f1db85ce-cbd8-4ac7-a446-fba6f73325c7" />
-<img width="396" height="784" alt="image" src="https://github.com/user-attachments/assets/eff34d28-9b79-44ef-9942-86a87f36be04" />
-<img width="384" height="746" alt="WhatsApp Image 2026-10-25 at 22 51 10" src="https://github.com/user-attachments/assets/4c7a86c4-92b3-4505-9b6d-26b2eb5b394b" />
-<img width="640" height="794" alt="WhatsApp Image 2026-10-25 at 22 51 08" src="https://github.com/user-attachments/assets/c8ff64eb-4dec-460b-b49b-c7fa43070f60" />
+<img width="1290" height="4581" alt="2_maze" src="https://github.com/user-attachments/assets/53a3462e-0cbe-4a08-8ef9-5d0a9ca5386f" /><img width="1290" height="3418" alt="1_live" src="https://github.com/user-attachments/assets/e821148d-d9ea-48fc-996f-bf5cd8ff9c46" />
+<img width="1290" height="5383" alt="4_straight" src="https://github.com/user-attachments/assets/69cf4516-0454-424b-a214-b14329beab29" />
+<img width="1290" height="3049" alt="3_export" src="https://github.com/user-attachments/assets/8eee1d5c-9bc0-4942-95b5-82f07104482d" />
+
 
 
 **Wireless logging:** set `TUNER_HOTSPOT_SSID` and `TUNER_HOTSPOT_PASS` to a 2.4 GHz phone hotspot and join it with a laptop too. Then:
